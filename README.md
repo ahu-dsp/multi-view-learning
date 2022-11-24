@@ -1,2 +1,2 @@
 # multi-view-learming
-Code for Multi-view
+Code for Multi-view Learning
